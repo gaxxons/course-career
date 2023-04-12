@@ -17,4 +17,4 @@
 
 
 
-[linkedin]: www.linkedin.com/in/stephen-gyamfi-donkor
+[linkedin]: https://www.linkedin.com/in/stephen-gyamfi-donkor/
